@@ -1,1 +1,20 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "STROKE_COLOR": {
+      "red": 0.0,
+      "green": 10.0,
+      "blue": 100.0,
+      "alpha": 25.5
+    },
+    "PARTICLE_NUMBER": 20000,
+    "SEED": 1,
+    "BLOCK_SIZE": 50,
+    "NOISE_SCALE": 0.05,
+    "BACKGROUND_COLOR": {
+      "red": 235.0,
+      "green": 235.0,
+      "blue": 235.0,
+      "alpha": 255.0
+    }
+  }
+}
